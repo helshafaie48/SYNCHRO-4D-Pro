@@ -1,0 +1,18 @@
+Course description
+This training is dedicated to new SYNCHRO 4D Pro users. The objective is to familiarize the user with new software, build and develop a 4D project which consists of 3D design models (including construction equipment) and external construction schedule.
+
+In this training we will explore: 
+•    User Interface
+•    Model and schedule import
+•    Creation of 4D assignments
+•    Appearance Profiles
+
+
+The course includes a training dataset.
+
+After completing the course, the learner will know:
+•    Various 3D models import workflows
+•    External schedule import workflow
+•    How to review 3D model and schedule
+•    How to create and modify 4D assignments
+•    How to use Appearance Profiles to simulate construction works
